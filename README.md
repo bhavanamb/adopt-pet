@@ -18,6 +18,7 @@ Course Website: https://frontendmasters.com/courses/complete-react-v5/
 * useEffect built-in hook to asynchronously request data from the Petfinder API.
 * Reach Router to navigate to the Pet Details page based on pet id.
 * Class component and state.
+* Context to set theme color.
 * Error Boundaries to control API errors.
 
 
