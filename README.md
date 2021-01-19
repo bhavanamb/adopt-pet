@@ -1,8 +1,7 @@
 # Adopt-Pet
 
 
-*Adopt Pet* is an ReactJs based Web Application that allows you to search animals based on there breed and adopt from petfinder. 
-Completed this project as part of Frontend Master's course "Complete Intro to React, v5 by Brian Holt"
+*Adopt Pet* is a ReactJs based Web Application that allows you to search for animals based on their breed and adopt from Petfinder. Completed this project as part of Frontend Master's course "Complete Intro to React, v5 by Brian Holt"
 
 Course Website: https://frontendmasters.com/courses/complete-react-v5/
 
